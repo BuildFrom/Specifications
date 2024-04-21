@@ -7,3 +7,4 @@ A contract-first approach to API development
 
 # AsyncAPI
 * In Progress, limited experience atm
+* PRs welcome : )
